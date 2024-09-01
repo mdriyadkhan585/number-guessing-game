@@ -1,6 +1,6 @@
 # Number Guessing Game 🎲
 ---
-[In Python]()
+[In Python](https://github.com/mdriyadkhan585/number-guessing-game_Python)
 
 ![Logo](logo.svg)
 
